@@ -8,7 +8,7 @@ You can find the scripts in the following directory:
 
 ## About This Study
 
-This study explores the phylogenomic discordance and evolutionary history of the leafhopper genus *Agnesiella*, providing insights into its complex speciation and divergence processes. The scripts in this repository were used to process data, analyze results, and generate figures for this research.
+This study examines evolutionary dynamics in the leafhopper genus *Agnesiella* using whole-genome sequencing. Analyses of SCOs, UCEs, and SNPs reveal widespread incomplete lineage sorting (ILS) and substantial interspecific gene flow, particularly within the *Draberiella* subgenus. Introgressed regions show enrichment in nitrogen metabolism and detoxification genes, suggesting hybridization facilitates ecological adaptation in Typhlocybinae leafhoppers.
 
 ## Scripts Overview
 
